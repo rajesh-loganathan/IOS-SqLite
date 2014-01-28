@@ -1,0 +1,137 @@
+// !$*UTF8*$!
+{
+	8065E2281807D14300648AFF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 809B695B180515E00035A680 /* SqLiteViewController.m */;
+		name = "SqLiteViewController.m: 81";
+		rLen = 0;
+		rLoc = 2168;
+		rType = 0;
+		vrLen = 1088;
+		vrLoc = 5357;
+	};
+	8065E22A1807D14300648AFF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 809B695A180515E00035A680 /* SqLiteViewController.h */;
+		name = "SqLiteViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 840;
+		vrLoc = 0;
+	};
+	809B6931180515E00035A680 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 80E3E0451805268800206E08 /* SqLite */;
+		activeTarget = 809B6938180515E00035A680 /* SqLite */;
+		codeSenseManager = 80E3E0521805269A00206E08 /* Code sense */;
+		executables = (
+			80E3E0451805268800206E08 /* SqLite */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					780,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 403166987;
+			PBXWorkspaceStateSaveDate = 403166987;
+		};
+		perUserProjectItems = {
+			8065E2281807D14300648AFF /* PBXTextBookmark */ = 8065E2281807D14300648AFF /* PBXTextBookmark */;
+			8065E22A1807D14300648AFF /* PBXTextBookmark */ = 8065E22A1807D14300648AFF /* PBXTextBookmark */;
+			80B7AB091807D71500DBCA69 /* PBXTextBookmark */ = 80B7AB091807D71500DBCA69 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 80E3E0511805269A00206E08 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	809B6938180515E00035A680 /* SqLite */ = {
+		activeExec = 0;
+		executables = (
+			80E3E0451805268800206E08 /* SqLite */,
+		);
+	};
+	809B695A180515E00035A680 /* SqLiteViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {958, 455}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 839}";
+		};
+	};
+	809B695B180515E00035A680 /* SqLiteViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1783, 2587}}";
+			sepNavSelRange = "{2168, 0}";
+			sepNavVisRange = "{5357, 1088}";
+		};
+	};
+	80B7AB091807D71500DBCA69 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 809B695A180515E00035A680 /* SqLiteViewController.h */;
+		name = "SqLiteViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 839;
+		vrLoc = 0;
+	};
+	80E3E0451805268800206E08 /* SqLite */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SqLite;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	80E3E0511805269A00206E08 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	80E3E0521805269A00206E08 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
